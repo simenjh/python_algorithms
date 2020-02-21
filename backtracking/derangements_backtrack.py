@@ -1,6 +1,3 @@
-#!/usr/bin/env python3
-
-
 # Python program to generate all derangements of a list
 
 def toString(List): 

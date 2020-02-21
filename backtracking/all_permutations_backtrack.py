@@ -1,6 +1,3 @@
-#!/usr/bin/env python3
-
-
 # Python program to generate all permutations of a list
 
 def toString(List): 
